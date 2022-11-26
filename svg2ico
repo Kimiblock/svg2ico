@@ -1,0 +1,2 @@
+#!/bin/bash
+convert -density 6000 -resize 256x256 "$1" "$2"
